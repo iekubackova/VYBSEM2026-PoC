@@ -52,7 +52,7 @@ Download into `data/` (do not unzip, the loader does that):
 ```bash
 streamlit run app.py          # interactive dashboard
 python evaluate.py            # headless: writes results/*.csv for both datasets
-python make_figure.py         # Figure 2 (results.pdf) and the numbers of Table 1
+python make_figure.py         # Figure 3 (results.pdf) and the numbers of Table 1
 ```
 
 `results/` contains the per-gene scores (five random splits) reported in Table 1 and Figure 3 of the paper.

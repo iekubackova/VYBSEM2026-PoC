@@ -1,4 +1,4 @@
-"""Figure 2 and Table 1 of the paper from results/*_per_gene.csv (written by evaluate.py)."""
+"""Figure 3 and Table 1 of the paper from results/*_per_gene.csv (written by evaluate.py)."""
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
