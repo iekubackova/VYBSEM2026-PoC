@@ -1,0 +1,1 @@
+Put adamson.zip, norman.zip and gene2go_all.pkl here (see README.md).

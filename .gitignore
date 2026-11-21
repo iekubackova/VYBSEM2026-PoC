@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Large input data (download as described in README.md)
+data/*
+!data/PUT_DATA_HERE.txt
+
+# Figure output of make_figure.py
+results.pdf
